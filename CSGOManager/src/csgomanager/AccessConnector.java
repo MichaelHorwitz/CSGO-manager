@@ -285,4 +285,8 @@ public class AccessConnector {
 
         }
     }
+	
+	private void sayHi() {
+		System.out.println("Hi");
+	}
 }
